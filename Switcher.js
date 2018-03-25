@@ -96,6 +96,10 @@ let Switcher = (function(){
             name: "Daily Dare: Chadley",
             rotations: 2
         }],
+        ["046_ff_sep2017", {
+            name: "Destroyed Faerie Festival",
+            rotations: 4
+        }],
         ["026_fon_f2c70", {
             name: "Festival of Neggs",
             rotations: 7
