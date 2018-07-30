@@ -120,6 +120,10 @@ let Switcher = (function(){
             name: "Krawk Island",
             rotations: 7
         }],
+        ["047_meridel_july2018", {
+            name: "Meridell Theme",
+            rotations: 7
+        }],
         ["037_hmh_f7k8s", {
             name: "Monster Hunting",
             rotations: 14
