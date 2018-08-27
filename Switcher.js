@@ -80,6 +80,10 @@ let Switcher = (function(){
             name: "Battlegrounds: The Sway",
             rotations: 6
         }],
+        ["048_brightvale_aug2018", {
+            name: "Brightvale",
+            rotations: 5
+        }],
         ["008_com_e529a", {
             name: "Curse of Maraqua",
             rotations: 10
@@ -121,7 +125,7 @@ let Switcher = (function(){
             rotations: 7
         }],
         ["047_meridel_july2018", {
-            name: "Meridell Theme",
+            name: "Meridell",
             rotations: 7
         }],
         ["037_hmh_f7k8s", {
