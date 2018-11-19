@@ -160,13 +160,13 @@ let Switcher = (function(){
             name: "Tale of Woe",
             rotations: 10
         }],
-        ["049_thelostheirloom_nov2018", {
-            name: "The Lost Heirloom",
-            rotations: 6
-        }],
         ["025_tfr_5ce03", {
             name: "The Faeries' Ruin",
             rotations: 8
+        }],
+        ["049_thelostheirloom_nov2018", {
+            name: "The Lost Heirloom",
+            rotations: 6
         }],
         ["019_sloth1_7f914", {
             name: "The Return of Dr. Sloth",
