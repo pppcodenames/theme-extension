@@ -172,6 +172,10 @@ let Switcher = (function(){
             name: "The Return of Dr. Sloth",
             rotations: 13
         }],
+        ["050_tis_the_season_atfg", {
+            name: "Tis the Season",
+            rotations: 2
+        }],
         ["027_tkg_69097", {
             name: "Treasure Keepers",
             rotations: 11
